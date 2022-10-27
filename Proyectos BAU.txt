@@ -1,0 +1,20 @@
+- Asistente de balanceo (nuevo) I9.E3 Actualización del componente del balanceo para la geografía
+	- Balanceo (terminarlo)
+	- Visor de portafolios (nuevo)
+	- Seguimiento de solicitudes/Atención/Vo. Bo.
+	- Depto 44
+- Editor ZG (nuevo)
+	- Clasificación (terminarlo/liberarlo)
+	- Crear/eliminar (existe?)
+	- Modificar (nuevo)
+	- Rezonificar clientes (vincular)
+- Actualización cartográfica 
+	- Actualizar vectores (Calles, NE, Manzanas, Colonias)
+	- Incluir Frentes de Manzana
+	- Agiliar proceso de actualización
+- Homologación de geocodificadores
+	- Considerar mejoras hechas por Nancy
+- Gestor de Sucursales (terminarlo) I6.E2 Actualización de Tiendas y Gerencias Aplicativo
+- Gestor de Oficinas (terminarlo)
+- Gestor CMT (Corresponsales/Multired/Tranbox) (Nuevo)
+	
